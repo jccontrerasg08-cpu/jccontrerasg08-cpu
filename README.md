@@ -82,7 +82,7 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ### Business & Enterprise Tools
 <img src="https://img.shields.io/badge/SAP_Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Fiori" />
-<img src="https://img.shields.io/badge/CFDI_4.0_/_SAT-6C3483?style=for-the-badge&logoColor=white" alt="CFDI 4.0 / SAT" />
+<img src="https://img.shields.io/badge/CFDI_4.0_%2F_SAT-6C3483?style=for-the-badge" alt="CFDI 4.0 / SAT" />
 <img src="https://img.shields.io/badge/CONTPAQi-1B5E20?style=for-the-badge&logoColor=white" alt="CONTPAQi" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
