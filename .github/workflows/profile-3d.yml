@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+  # Pushes made by GITHUB_TOKEN do not re-trigger workflows, so the
+  # commit this job makes below cannot loop back into another run.
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
