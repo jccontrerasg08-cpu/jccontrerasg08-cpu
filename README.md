@@ -58,6 +58,32 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ---
 
+## ⚙️ How I Work
+
+*Rendered natively by GitHub — no external service, so it always loads.*
+
+```mermaid
+flowchart LR
+    A["🗣️ Stakeholder<br/>interviews"] --> B["📋 Requirements<br/>gathering"]
+    B --> C["🗺️ Process<br/>mapping"]
+    C --> D{"Automatable?"}
+    D -->|Yes| E["⚙️ Build<br/>Python · FastAPI · Playwright"]
+    D -->|No| F["📈 Process<br/>improvement"]
+    E --> G["✅ Validation<br/>rules"]
+    F --> G
+    G --> H["📊 Reporting<br/>SQL · Pandas · Tableau"]
+    H --> I["📁 Documentation<br/>& handover"]
+
+    classDef analysis fill:#1a2a6c,stroke:#fdbb2d,stroke-width:2px,color:#ffffff
+    classDef build fill:#b21f1f,stroke:#fdbb2d,stroke-width:2px,color:#ffffff
+    classDef deliver fill:#fdbb2d,stroke:#1a2a6c,stroke-width:2px,color:#1a2a6c
+    class A,B,C analysis
+    class E,F,G build
+    class H,I deliver
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -169,6 +195,19 @@ Exchange Program — Business, Management & Negotiation
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=jccontrerasg08-cpu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
+  alt="GitHub trophies"
+/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -189,6 +228,52 @@ Exchange Program — Business, Management & Negotiation
 <img
   src="https://streak-stats.demolab.com/?user=jccontrerasg08-cpu&hide_border=true&theme=tokyonight&ring=fdbb2d&fire=fdbb2d&currStreakLabel=fdbb2d"
   alt="Contribution streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jccontrerasg08-cpu&theme=tokyo-night&bg_color=1a1b27&color=fdbb2d&line=b21f1f&point=ffffff&area=true&hide_border=true&radius=8&custom_title=Contribution%20Activity"
+  alt="Activity graph"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/output/github-snake.svg"
+  />
+  <img
+    alt="Snake eating my contribution graph"
+    src="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/output/github-snake.svg"
+  />
+</picture>
+
+<sub>Regenerated daily by GitHub Actions — adapts to your light/dark theme.</sub>
+
+</div>
+
+---
+
+## 🌆 Contributions in 3D
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/main/profile-3d-contrib/profile-night-rainbow.svg"
+  alt="3D contribution graph"
+  width="90%"
 />
 
 </div>
