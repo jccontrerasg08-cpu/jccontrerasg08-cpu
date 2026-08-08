@@ -208,39 +208,6 @@ Exchange Program — Business, Management & Negotiation
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=jccontrerasg08-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=fdbb2d&icon_color=fdbb2d"
-  alt="GitHub stats"
-/>
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jccontrerasg08-cpu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=fdbb2d"
-  alt="Top languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=jccontrerasg08-cpu&hide_border=true&theme=tokyonight&ring=fdbb2d&fire=fdbb2d&currStreakLabel=fdbb2d"
-  alt="Contribution streak"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=jccontrerasg08-cpu&theme=tokyo-night&bg_color=1a1b27&color=fdbb2d&line=b21f1f&point=ffffff&area=true&hide_border=true&radius=8&custom_title=Contribution%20Activity"
-  alt="Activity graph"
-/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
