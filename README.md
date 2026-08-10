@@ -155,7 +155,7 @@ flowchart LR
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 <table>
 <tr><td width="55%" valign="top">
@@ -174,9 +174,8 @@ Exchange Program — Business, Management & Negotiation
 
 </td><td width="45%" valign="top">
 
-**🗣️ Languages**
 
-| Language | Level |
+| Languages | Level |
 | :--- | :--- |
 | Español | Nativo |
 | English | Bilingual · C1 (TOEFL / Cambridge) |
