@@ -58,6 +58,20 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ---
 
+## 🧠 Core Competencies
+
+<div align="center">
+
+`Business Process Analysis` · `Requirements Gathering` · `Stakeholder Management`
+`Workflow Documentation` · `Business Reporting` · `Process Improvement`
+`Data Analysis` · `Process Automation` · `Problem Solving` · `Cross-functional Collaboration`
+`Financial Analysis` · `Accounting & Invoicing` · `Reconciliations` · `Inventory`
+`Free Trade Agreements` · `Import / Export` · `Comercio Exterior`
+
+</div>
+
+---
+
 ## ⚙️ How I Work
 
 *Rendered natively by GitHub — no external service, so it always loads.*
@@ -181,32 +195,6 @@ Exchange Program — Business, Management & Negotiation
 
 ---
 
-## 🧠 Core Competencies
-
-<div align="center">
-
-`Business Process Analysis` · `Requirements Gathering` · `Stakeholder Management`
-`Workflow Documentation` · `Business Reporting` · `Process Improvement`
-`Data Analysis` · `Process Automation` · `Problem Solving` · `Cross-functional Collaboration`
-`Financial Analysis` · `Accounting & Invoicing` · `Reconciliations` · `Inventory`
-`Free Trade Agreements` · `Import / Export` · `Comercio Exterior`
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=jccontrerasg08-cpu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -265,12 +253,6 @@ Exchange Program — Business, Management & Negotiation
 </a>
 
 </div>
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[PNG-PDF](https://github.com/jccontrerasg08-cpu/PNG-PDF)** | Telegram bot — send any document, get a PDF back | `Python` `Telegram Bot API` |
-| **[WhoIsJuca](https://github.com/jccontrerasg08-cpu/WhoIsJuca)** | Personal site / portfolio | `HTML` `CSS` |
-| **[Proyecto-DEC-Informatica](https://github.com/jccontrerasg08-cpu/Proyecto-DEC-Informatica)** | Pure HTML site, zero local dependencies | `HTML` `CSS` |
 
 ---
 
