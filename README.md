@@ -223,43 +223,6 @@ Exchange Program — Business, Management & Negotiation
 
 ---
 
-## 🌆 Contributions in 3D
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/main/profile-3d-contrib/profile-night-rainbow.svg"
-  alt="3D contribution graph"
-  width="90%"
-/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/jccontrerasg08-cpu/PNG-PDF">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jccontrerasg08-cpu&repo=PNG-PDF&hide_border=true&theme=tokyonight&title_color=fdbb2d&icon_color=fdbb2d"
-    alt="PNG-PDF"
-  />
-</a>
-<a href="https://github.com/jccontrerasg08-cpu/WhoIsJuca">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=jccontrerasg08-cpu&repo=WhoIsJuca&hide_border=true&theme=tokyonight&title_color=fdbb2d&icon_color=fdbb2d"
-    alt="WhoIsJuca"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 *"Si resuelve un problema real, vale la pena construirlo."*
 
 **Open to Business Analyst, Data Analyst and Process Automation roles.**
