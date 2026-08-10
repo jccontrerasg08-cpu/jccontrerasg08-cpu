@@ -174,13 +174,6 @@ Exchange Program — Business, Management & Negotiation
 
 </td><td width="45%" valign="top">
 
-**📜 Certifications**
-
-- **Google Data Analytics** — SQL, R, Tableau, end-to-end workflow
-- **SAP Business Analyst** — data analytics & business-process analysis
-- **McKinsey Forward Program** — leadership & structured problem-solving
-- **Learn SQL Basics for Data Science** — UC Davis
-
 **🗣️ Languages**
 
 | Language | Level |
@@ -192,6 +185,16 @@ Exchange Program — Business, Management & Negotiation
 
 </td></tr>
 </table>
+
+**📜 Certifications**
+
+- **Google Data Analytics** — SQL, R, Tableau, end-to-end workflow
+- **SAP Business Analyst** — data analytics & business-process analysis
+- **McKinsey Forward Program** — leadership & structured problem-solving
+- **Learn SQL Basics for Data Science** — UC Davis
+- **Cadena de Suministro global** — supply chain & logistics
+- **Comercio Internacional** — export, import, customs & global business
+
 
 ---
 
