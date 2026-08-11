@@ -32,7 +32,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 **Business Analyst** and recent **Global Business** graduate (Tecnológico de Monterrey) working at the
 intersection of **business processes, logistics, automation, and data**. I gather requirements from finance and
@@ -42,7 +42,7 @@ operations teams, document the workflows, and then build the automation that rem
 name:         Juan Carlos Contreras Gastélum
 alias:        Juca8
 location:     Ensenada / Tijuana, México 🇲🇽
-role:         Business Analyst · Process Automation · Data Analytics
+role:         Business Analyst · Logistics/Supply Chain · Data Analytics
 education:    B.A. Global Business — Data Analytics & AI Tools (GPA 91.76/100)
 exchange:     Vrije Universiteit Amsterdam 🇳🇱
 languages:    Español (nativo) · English (bilingual, C1) · Français · Nederlands
@@ -58,7 +58,7 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 
 <div align="center">
 
@@ -72,7 +72,7 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ---
 
-## ⚙️ How I Work
+## How I Work
 
 *Rendered natively by GitHub — no external service, so it always loads.*
 
@@ -98,7 +98,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -132,7 +132,7 @@ flowchart LR
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Freelance Developer** · RFA — Tijuana / Ensenada, México · `02/2025 – Present`
 > Analyzed business processes and gathered requirements from finance and operations teams, translating
@@ -155,7 +155,7 @@ flowchart LR
 
 ---
 
-## 🎓 Education
+## Education
 
 <table>
 <tr><td width="55%" valign="top">
@@ -185,7 +185,7 @@ Exchange Program — Business, Management & Negotiation
 </td></tr>
 </table>
 
-**📜 Certifications**
+** Certifications**
 
 - **Google Data Analytics** — SQL, R, Tableau, end-to-end workflow
 - **SAP Business Analyst** — data analytics & business-process analysis
@@ -198,7 +198,7 @@ Exchange Program — Business, Management & Negotiation
 ---
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -223,7 +223,7 @@ Exchange Program — Business, Management & Negotiation
 
 ---
 
-### 💡 *"Si resuelve un problema real, vale la pena construirlo."*
+### *"Si resuelve un problema real, vale la pena construirlo."*
 
 **Open to Business Analyst, Data Analyst and Process Automation roles.**
 📬 [jccontrerasg08@gmail.com](mailto:jccontrerasg08@gmail.com) · [LinkedIn](https://linkedin.com/in/juan-carlos-c-a19132211/)
