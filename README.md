@@ -41,7 +41,7 @@ operations teams, document the workflows, and then build the automation that rem
 ```yaml
 name:         Juan Carlos Contreras Gastélum
 alias:        Juca8
-location:     Ensenada / Tijuana, México 🇲🇽
+location:     Ensenada / Tijuana / Monterrey, México 🇲🇽
 role:         Business Analyst · Logistics/Supply Chain · Data Analytics
 education:    B.A. Global Business — Data Analytics & AI Tools (GPA 91.76/100)
 exchange:     Vrije Universiteit Amsterdam 🇳🇱
