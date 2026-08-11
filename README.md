@@ -35,7 +35,7 @@
 ## 🧑‍💻 About Me
 
 **Business Analyst** and recent **Global Business** graduate (Tecnológico de Monterrey) working at the
-intersection of **business processes, automation, and data**. I gather requirements from finance and
+intersection of **business processes, logistics, automation, and data**. I gather requirements from finance and
 operations teams, document the workflows, and then build the automation that removes the manual work.
 
 ```yaml
