@@ -185,7 +185,7 @@ Exchange Program — Business, Management & Negotiation
 </td></tr>
 </table>
 
-** Certifications**
+**Certifications** 
 
 - **Google Data Analytics** — SQL, R, Tableau, end-to-end workflow
 - **SAP Business Analyst** — data analytics & business-process analysis
