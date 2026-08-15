@@ -218,7 +218,7 @@ Exchange Program — Business, Management & Negotiation
 </div>
 
 <div align="center">
-### "Si resuelve un problema real, vale la pena construirlo."
+"Si resuelve un problema real, vale la pena construirlo."
 
 **Open to Business Analyst, Data Analyst and Process Automation roles.**
 📬 [jccontrerasg08@gmail.com](mailto:jccontrerasg08@gmail.com) · [LinkedIn](https://linkedin.com/in/juan-carlos-c-a19132211/)
