@@ -223,6 +223,7 @@ Exchange Program — Business, Management & Negotiation
 
 ---
 
+<div align="center">
 ### *"Si resuelve un problema real, vale la pena construirlo."*
 
 **Open to Business Analyst, Data Analyst and Process Automation roles.**
