@@ -198,8 +198,6 @@ Exchange Program — Business, Management & Negotiation
 ---
 
 
-## Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -218,8 +216,6 @@ Exchange Program — Business, Management & Negotiation
 </picture>
 
 </div>
-
----
 
 <div align="center">
 ### "Si resuelve un problema real, vale la pena construirlo."
