@@ -58,6 +58,18 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ---
 
+## Featured Work
+
+| Project | Role | What I delivered | Proof |
+| :--- | :--- | :--- | :--- |
+| **Confidential process automation** | Business Analyst · Developer | Mapped finance and operations workflows and built backend, browser-automation, API-integration, validation, and delivery flows. Client details and operational artifacts remain intentionally private. | [Portfolio overview](https://whoisjuca-production.up.railway.app/#projects) |
+| **Stratify · Ximple.co** | Project Manager · Team of 4 | Built a Streamlit dashboard using KMeans, PCA, Random Forest, SMOTE, Bokeh, and CRISP-DM. **Second place** in the Tec21 challenge and presented to Ximple leadership. | [GitHub project](https://github.com/Juca8/DashboardEdit/tree/main) |
+| **Olivieri Retention Engine** | Data Analyst · VU Amsterdam | Designed a retention and next-best-action case using Random Forest, uplift modeling, BERT NLP, customer lifetime value, and human approval. | [Case report](https://docs.google.com/document/d/1o45vQxPFQOltUSnK3SpzyP7H5qxXr1iOHdjtS0L9iMw/edit) |
+
+> **Best fit:** Business Analyst, Data Analyst, Process Automation, Supply Chain, and International Trade roles where business context and technical delivery need to work together.
+
+---
+
 ## Core Competencies
 
 <div align="center">
@@ -94,7 +106,18 @@ flowchart LR
     class A,B,C analysis
     class E,F,G build
     class H,I deliver
-```
+  ```
+
+<details>
+<summary>View a generated 3D contribution profile</summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/main/profile-3d-contrib/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/jccontrerasg08-cpu/jccontrerasg08-cpu/main/profile-3d-contrib/profile-green.svg" alt="Three-dimensional GitHub contribution profile" />
+</picture>
+
+</details>
 
 ---
 
