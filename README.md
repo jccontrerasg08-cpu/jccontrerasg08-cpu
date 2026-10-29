@@ -52,7 +52,7 @@ focus:        Requirements gathering → workflow documentation → automation
 - 🔭 Currently building **automated billing and customer-service workflows** with Python, FastAPI and Playwright.
 - 🧾 Shipped **CFDI 4.0 electronic invoicing** with SAT sealing, PDF generation and email delivery.
 - 🤖 Integrated the **WhatsApp Business API** and **Telegram Bot API** into production business flows.
-- 📊 Comfortable across the full analytics workflow — **SQL → Pandas → Tableau**, following **CRISP-DM**.
+- 📊 Comfortable across different analytics workflow — **SQL → Pandas → Tableau**, **CRISP-DM**.
 - 🌍 Work effectively in **English and Spanish** with cross-functional teams.
 - 📫 Reach me at **jccontrerasg08@gmail.com** or on [LinkedIn](https://linkedin.com/in/juan-carlos-c-a19132211/).
 
