@@ -9,7 +9,7 @@
 <!-- ══════════════ TYPING HEADLINE ══════════════ -->
 <a href="https://github.com/jccontrerasg08-cpu">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=FDBB2D&center=true&vCenter=true&width=640&lines=Business+Analyst+%7C+Process+Automation;I+turn+manual+workflows+into+automated+ones;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+FastAPI;Bilingual+ES%2FEN+%E2%80%A2+Based+in+M%C3%A9xico"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=FDBB2D&center=true&vCenter=true&width=640&lines=HR+Ops+Associate+Analyst+%40+PepsiCo;Business+Analyst+%7C+Process+Automation;I+turn+manual+workflows+into+automated+ones;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+FastAPI;Bilingual+ES%2FEN+%E2%80%A2+Based+in+M%C3%A9xico"
     alt="Typing intro"
   />
 </a>
@@ -17,6 +17,9 @@
 <br/>
 
 <!-- ══════════════ SOCIAL BADGES ══════════════ -->
+<a href="https://www.pepsico.com/">
+  <img src="https://img.shields.io/badge/PepsiCo-HR%20Ops%20Analyst-004B93?style=for-the-badge&logo=pepsi&logoColor=white" alt="PepsiCo" />
+</a>
 <a href="https://linkedin.com/in/juan-carlos-c-a19132211/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -43,12 +46,14 @@ name:         Juan Carlos Contreras Gastélum
 alias:        Juca8
 location:     Ensenada / Tijuana / Monterrey, México 🇲🇽
 role:         Business Analyst · Logistics/Supply Chain · Data Analytics
+current:      HR Ops Associate Analyst · PepsiCo · US Payroll & SAP
 education:    B.A. Global Business — Data Analytics & AI Tools (GPA 91.76/100)
 exchange:     Vrije Universiteit Amsterdam 🇳🇱
 languages:    Español (nativo) · English (bilingual, C1) · Français · Nederlands
 focus:        Requirements gathering → workflow documentation → automation
 ```
 
+- 🏢 **HR Ops Associate Analyst at PepsiCo** — San Nicolás de los Garza, hybrid, since 09/2026. US payroll and SAP, full time.
 - 🔭 Currently building **automated billing and customer-service workflows** with Python, FastAPI and Playwright.
 - 🧾 Shipped **CFDI 4.0 electronic invoicing** with SAT sealing, PDF generation and email delivery.
 - 🤖 Integrated the **WhatsApp Business API** and **Telegram Bot API** into production business flows.
@@ -171,6 +176,9 @@ flowchart LR
 ---
 
 ## Experience
+
+**HR Ops Associate Analyst** · PepsiCo — San Nicolás de los Garza, México · `09/2026 – Present`
+> Full time, hybrid. US payroll operations on SAP: the process, the controls, and the handoff between HR operations and the system of record.
 
 **Freelance Developer** · RFA — Tijuana / Ensenada, México · `02/2025 – Present`
 > Analyzed business processes and gathered requirements from finance and operations teams, translating
