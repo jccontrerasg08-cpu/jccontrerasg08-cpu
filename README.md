@@ -54,9 +54,9 @@ focus:        Requirements gathering → workflow documentation → automation
 ```
 
 - 🏢 **HR Ops Associate Analyst at PepsiCo** — San Nicolás de los Garza, hybrid, since 09/2026. US payroll and SAP, full time.
-- 🔭 Currently building **automated billing and customer-service workflows** with Python, FastAPI and Playwright.
-- 🧾 Shipped **CFDI 4.0 electronic invoicing** with SAT sealing, PDF generation and email delivery.
-- 🤖 Integrated the **WhatsApp Business API** and **Telegram Bot API** into production business flows.
+- 🔭 Building public, reproducible analytics and optimization projects, with private client and employer data excluded.
+- 📐 Exploring Operations Research: EOQ, dynamic lot sizing, service levels, and scenario-based inventory decisions.
+- 🧾 Public fiscal-tech and international-trade tools are maintained separately from professional engagements.
 - 📊 Comfortable across different analytics workflow — **SQL → Pandas → Tableau**, **CRISP-DM**.
 - 🌍 Work effectively in **English and Spanish** with cross-functional teams.
 - 📫 Reach me at **jccontrerasg08@gmail.com** or on [LinkedIn](https://linkedin.com/in/juan-carlos-c-a19132211/).
@@ -180,12 +180,9 @@ flowchart LR
 **HR Ops Associate Analyst** · PepsiCo — San Nicolás de los Garza, México · `09/2026 – Present`
 > Full time, hybrid. US payroll operations on SAP: the process, the controls, and the handoff between HR operations and the system of record.
 
-**Freelance Developer** · RFA — Tijuana / Ensenada, México · `02/2025 – Present`
-> Analyzed business processes and gathered requirements from finance and operations teams, translating
-> them into automation opportunities. Built automated workflows in **Python, FastAPI and Playwright**
-> that cut manual processing time in billing and customer service. Implemented **CFDI 4.0 electronic
-> invoicing** with SAT sealing, PDF generation and email delivery, plus **WhatsApp Business** and
-> **Telegram** API integrations. Documented workflows, validation rules and integration procedures.
+**Freelance Developer** · Confidential client — Remote · `02/2025 – Present`
+> Analyze business processes and gather requirements to develop private workflow automation.
+> Work is kept separate from public projects; client details, systems, integrations, and operational data are confidential.
 
 **Sponsorships Director** · Comité de Participación Estudiantil, Tec de Monterrey · `01/2025 – 06/2025`
 > Led the sponsorships area, securing funding for charity events and student initiatives. Managed
