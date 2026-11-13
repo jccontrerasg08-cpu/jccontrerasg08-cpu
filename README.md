@@ -9,7 +9,7 @@
 <!-- ══════════════ TYPING HEADLINE ══════════════ -->
 <a href="https://github.com/jccontrerasg08-cpu">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=FDBB2D&center=true&vCenter=true&width=640&lines=HR+Ops+Associate+Analyst+%40+PepsiCo;Business+Analyst+%7C+Process+Automation;I+turn+manual+workflows+into+automated+ones;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+FastAPI;Bilingual+ES%2FEN+%E2%80%A2+Based+in+M%C3%A9xico"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=FDBB2D&center=true&vCenter=true&width=640&lines=US+Payroll+Analyst+%40+PepsiCo;Business+Analyst+%7C+Process+Automation;I+turn+manual+workflows+into+automated+ones;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+FastAPI;Bilingual+ES%2FEN+%E2%80%A2+Based+in+M%C3%A9xico"
     alt="Typing intro"
   />
 </a>
@@ -46,7 +46,7 @@ name:         Juan Carlos Contreras Gastélum
 alias:        Juca8
 location:     Ensenada / Tijuana / Monterrey, México 🇲🇽
 role:         Business Analyst · Logistics/Supply Chain · Data Analytics
-current:      HR Ops Associate Analyst · PepsiCo · US Payroll & SAP
+current:      Ops Associate Analyst · PepsiCo · US Payroll & SAP
 education:    B.A. Global Business — Data Analytics & AI Tools (GPA 91.76/100)
 exchange:     Vrije Universiteit Amsterdam 🇳🇱
 languages:    Español (nativo) · English (bilingual, C1) · Français · Nederlands
