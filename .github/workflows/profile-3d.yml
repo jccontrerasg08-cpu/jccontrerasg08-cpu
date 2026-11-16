@@ -16,12 +16,15 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
 
       # Writes the SVGs into profile-3d-contrib/ in this repo
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # Pinned to a commit: this job holds a token that can write to the
+      # repository, and `latest` is a branch its author can move at any time.
+      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
