@@ -37,23 +37,29 @@
 
 ## About Me
 
-**Business Analyst** and recent **Global Business** graduate (Tecnológico de Monterrey) working at the
-intersection of **business processes, logistics, automation, and data**. I gather requirements from finance and
-operations teams, document the workflows, and then build the automation that removes the manual work.
+**US Payroll Analyst at PepsiCo.** I build reproducible tools for business operations, public data, and workflow automation.
+
+## Featured projects
+
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| [arancel-mx](https://github.com/jccontrerasg08-cpu/arancel-mx) | Versioned Mexican tariff data with source provenance and reproducible lookups. | [Hub](https://arancel-mx.vercel.app/) · [Latest data](https://github.com/jccontrerasg08-cpu/arancel-mx/releases/latest) · [Live dataset metadata](https://arancel-mx.vercel.app/data/v1/meta.json) |
+| [DOF Diff Lab](https://github.com/jccontrerasg08-cpu/dof-diff-lab) | Automated monitoring of Mexico's Diario Oficial, linking edition data and changes to official publications. | [Inspect the catalog](https://jccontrerasg08-cpu.github.io/dof-diff-lab/) |
+| [Wiki Comercio Exterior](https://github.com/jccontrerasg08-cpu/wiki-comercio-exterior-mx) | A reference for official sources and trade procedures, with tariff data maintained in arancel-mx. | [Read the wiki](https://jccontrerasg08-cpu.github.io/wiki-comercio-exterior-mx/) |
+
+### Background
 
 ```yaml
 name:         Juan Carlos Contreras Gastélum
 alias:        Juca8
 location:     Ensenada / Tijuana / Monterrey, México 🇲🇽
 role:         Business Analyst · Logistics/Supply Chain · Data Analytics
-current:      US Payroll Analyst · PepsiCo · SAP
-education:    B.A. Global Business — Data Analytics & AI Tools (GPA 92.44/100)
+education:    B.A. Global Business — Data Analytics & AI Tools
 exchange:     Vrije Universiteit Amsterdam 🇳🇱
 languages:    Español (nativo) · English (bilingual, C1) · Français · Nederlands
 focus:        Requirements gathering → workflow documentation → automation
 ```
 
-- 🏢 **US Payroll Analyst at PepsiCo** — San Nicolás de los Garza, hybrid, since 09/2026. US payroll and SAP, full time.
 - 🔭 Building public, reproducible analytics and optimization projects, with private client and employer data excluded.
 - 📐 Exploring Operations Research: EOQ, dynamic lot sizing, service levels, and scenario-based inventory decisions.
 - 🧾 Public fiscal-tech and international-trade tools are maintained separately from professional engagements.
@@ -63,11 +69,9 @@ focus:        Requirements gathering → workflow documentation → automation
 
 ---
 
-## Public projects
+## More public projects
 
 <div align="center">
-
-The work I actually maintain. Everything else on this profile is a reference fork, a school archive, or private.
 
 <a href="https://arancel-mx.vercel.app/">
   <img src="https://img.shields.io/badge/arancel--mx-LIGIE%20%2F%20NICO-1a2a6c?style=for-the-badge&logo=python&logoColor=white" alt="arancel-mx" />
@@ -78,7 +82,7 @@ The work I actually maintain. Everything else on this profile is a reference for
 <a href="https://jccontrerasg08-cpu.github.io/wiki-comercio-exterior-mx/">
   <img src="https://img.shields.io/badge/Wiki%20Comercio%20Exterior-official%20URLs-fdbb2d?style=for-the-badge&logoColor=1a2a6c" alt="wiki" />
 </a>
-<a href="https://sat-cfdi-status-mx.vercel.app">
+<a href="https://github.com/jccontrerasg08-cpu/sat-cfdi-status">
   <img src="https://img.shields.io/badge/SAT%20CFDI%20status-consulta%20p%C3%BAblica-6C3483?style=for-the-badge&logo=typescript&logoColor=white" alt="sat-cfdi-status" />
 </a>
 <a href="https://github.com/jccontrerasg08-cpu/PNG-PDF">
@@ -92,12 +96,10 @@ The work I actually maintain. Everything else on this profile is a reference for
 
 | Project | What it is |
 | --- | --- |
-| [arancel-mx](https://github.com/jccontrerasg08-cpu/arancel-mx) | Open, traceable LIGIE/NICO data. Hashes, immutable releases, and a [live hub](https://arancel-mx.vercel.app/). Not legal advice and not tariff classification. Certified snapshot the API asserts: `data-2026.08.15`. |
-| [dof-diff-lab](https://github.com/jccontrerasg08-cpu/dof-diff-lab) | Traceable monitor of Mexico's Diario Oficial. SIDOF first, official HTML as fallback. [Inspection site](https://jccontrerasg08-cpu.github.io/dof-diff-lab/). |
-| [wiki-comercio-exterior-mx](https://github.com/jccontrerasg08-cpu/wiki-comercio-exterior-mx) | Wiki and catalog of official URLs. Tariff tables live in arancel-mx, not here. [Site](https://jccontrerasg08-cpu.github.io/wiki-comercio-exterior-mx/). |
 | [agent-traffic-intelligence](https://github.com/jccontrerasg08-cpu/agent-traffic-intelligence) | Explainable classification of automated or AI-originated web traffic. Pre-alpha, observe-only: it does not block or change traffic. Lab: [ati-observation-lab](https://github.com/jccontrerasg08-cpu/ati-observation-lab). |
-| [sat-cfdi-status](https://github.com/jccontrerasg08-cpu/sat-cfdi-status) | Public CFDI status check and a local XML reader. [App](https://sat-cfdi-status-mx.vercel.app). |
+| [sat-cfdi-status](https://github.com/jccontrerasg08-cpu/sat-cfdi-status) | Public CFDI status check and a local XML reader. |
 | [PNG-PDF](https://github.com/jccontrerasg08-cpu/PNG-PDF) | A file in, a PDF out. Web, API, CLI, or Telegram. Nothing is stored. |
+| [Inventory Lab](https://whoisjuca-production.up.railway.app/inventory-lab.html) | An interactive demo of inventory and lot-sizing decisions using synthetic scenarios. |
 
 ---
 
