@@ -18,7 +18,7 @@
 
 <!-- ══════════════ SOCIAL BADGES ══════════════ -->
 <a href="https://www.pepsico.com/">
-  <img src="https://img.shields.io/badge/PepsiCo-HR%20Ops%20Analyst-004B93?style=for-the-badge&logo=pepsi&logoColor=white" alt="PepsiCo" />
+  <img src="https://img.shields.io/badge/PepsiCo-US%20Payroll%20Analyst-004B93?style=for-the-badge&logo=pepsi&logoColor=white" alt="PepsiCo" />
 </a>
 <a href="https://linkedin.com/in/juan-carlos-c-a19132211/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -46,14 +46,14 @@ name:         Juan Carlos Contreras Gastélum
 alias:        Juca8
 location:     Ensenada / Tijuana / Monterrey, México 🇲🇽
 role:         Business Analyst · Logistics/Supply Chain · Data Analytics
-current:      Ops Associate Analyst · PepsiCo · US Payroll & SAP
-education:    B.A. Global Business — Data Analytics & AI Tools (GPA 91.76/100)
+current:      US Payroll Analyst · PepsiCo · SAP
+education:    B.A. Global Business — Data Analytics & AI Tools (GPA 92.44/100)
 exchange:     Vrije Universiteit Amsterdam 🇳🇱
 languages:    Español (nativo) · English (bilingual, C1) · Français · Nederlands
 focus:        Requirements gathering → workflow documentation → automation
 ```
 
-- 🏢 **HR Ops Associate Analyst at PepsiCo** — San Nicolás de los Garza, hybrid, since 09/2026. US payroll and SAP, full time.
+- 🏢 **US Payroll Analyst at PepsiCo** — San Nicolás de los Garza, hybrid, since 09/2026. US payroll and SAP, full time.
 - 🔭 Building public, reproducible analytics and optimization projects, with private client and employer data excluded.
 - 📐 Exploring Operations Research: EOQ, dynamic lot sizing, service levels, and scenario-based inventory decisions.
 - 🧾 Public fiscal-tech and international-trade tools are maintained separately from professional engagements.
@@ -177,8 +177,8 @@ flowchart LR
 
 ## Experience
 
-**HR Ops Associate Analyst** · PepsiCo — San Nicolás de los Garza, México · `09/2026 – Present`
-> Full time, hybrid. US payroll operations on SAP: the process, the controls, and the handoff between HR operations and the system of record.
+**US Payroll Analyst** · PepsiCo — San Nicolás de los Garza, México · `09/2026 – Present`
+> Full time, hybrid. US payroll operations on SAP: the process, the controls, and the handoff between payroll operations and the system of record.
 
 **Freelance Developer** · Confidential client — Remote · `02/2025 – Present`
 > Analyze business processes and gather requirements to develop private workflow automation.
@@ -207,7 +207,7 @@ flowchart LR
 `08/2022 – 06/2026`
 Bachelor of Global Business
 *Concentration: Data Analytics & AI Tools*
-GPA **91.76 / 100** — 🏅 Beca Talento Académico
+GPA **92.44 / 100** — 🏅 Beca Talento Académico
 `Business Strategy` `Data Analytics` `International Trade` `Global Logistics`
 
 **🌷 Vrije Universiteit Amsterdam**
